@@ -1,2 +1,2 @@
-export * from './ion-alert.module';
-export * from './components/ion-alert';
+export * from './dl-alert.module';
+export * from './components/dl-alert';

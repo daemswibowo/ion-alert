@@ -2,14 +2,14 @@ import { Observable } from 'rxjs';
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { IonAlert } from './components/ion-alert';
+import { DlAlert } from './components/dl-alert';
 
 @NgModule({
   declarations: [
-    IonAlert
+    DlAlert
   ],
   exports: [
-    IonAlert
+    DlAlert
   ],
   imports: [
     BrowserModule
@@ -18,4 +18,4 @@ import { IonAlert } from './components/ion-alert';
     CUSTOM_ELEMENTS_SCHEMA
   ]
 })
-export class IonAlertModule {}
+export class DlAlertModule {}

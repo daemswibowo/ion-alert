@@ -1,7 +1,7 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
-  selector: 'ion-alert',
+  selector: 'dl-alert',
   template: `
 	<ion-toolbar [color]="color" no-padding class="alert {{color}}" *ngIf="!hide">
 		<ion-list no-lines>
@@ -14,7 +14,7 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
 	</ion-toolbar>
   `
 })
-export class IonAlert {
+export class DlAlert {
 	@Input() color: string;
 	@Input() icon: string;
 	@Input() ios: string;
