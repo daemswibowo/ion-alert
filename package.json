@@ -1,6 +1,6 @@
 {
   "name": "ion-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alert component like bootstrap for ionic2/3",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
