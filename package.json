@@ -11,15 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/driftyco/ionic-module-template.git"
+    "url": "git+https://github.com/daemswibowo/ion-alert.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ionic2",
+    "ionic-alert",
+    "ion-alert",
+    "ionic3",
+    "alert",
+    "component"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/driftyco/ionic-module-template/issues"
+    "url": "https://github.com/daemswibowo/ion-alert/issues"
   },
-  "homepage": "https://github.com/driftyco/ionic-module-template#readme",
+  "homepage": "https://github.com/daemswibowo/ion-alert#readme",
   "devDependencies": {
     "@angular/common": "^2.1.1",
     "@angular/compiler": "^2.1.1",
